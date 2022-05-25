@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Данил\Desktop\arrays\Arrays\Arrays\main.c(111,53): warning C4090: функция: разные квалификаторы "const"
+C:\Users\Данил\Desktop\arrays\Arrays\Arrays\main.c(111,53): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\Данил\Desktop\arrays\Arrays\Arrays\main.c(111,53): warning C4028: формальный параметр 2 отличается от объявления
+  Arrays.vcxproj -> C:\Users\Данил\Desktop\arrays\Arrays\Debug\Arrays.exe
