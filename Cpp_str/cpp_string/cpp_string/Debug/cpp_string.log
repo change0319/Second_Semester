@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Данил\Desktop\Cpp_str\cpp_string\cpp_string\str.h(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Данил\Desktop\Cpp_str\cpp_string\cpp_string\main.cpp(9,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "My::String"
+C:\Users\Данил\Desktop\Cpp_str\cpp_string\cpp_string\main.cpp(9,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "My::String"
+C:\Users\Данил\Desktop\Cpp_str\cpp_string\cpp_string\main.cpp(9,9): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "My::String"
+  cpp_string.vcxproj -> C:\Users\Данил\Desktop\Cpp_str\cpp_string\Debug\cpp_string.exe
