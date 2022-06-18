@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Labaratory3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  fileopen.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Labaratory3.vcxproj -> C:\Users\Данил\Desktop\Labaratory3-master\x64\Debug\file.exe
