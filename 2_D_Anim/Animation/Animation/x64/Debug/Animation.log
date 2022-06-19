@@ -1,0 +1,2 @@
+﻿raylib.lib(rcore.obj) : error LNK2005: CloseWindow уже определен в user32.lib(USER32.dll)
+C:\Users\Данил\Desktop\2_D_Anim\Animation\x64\Debug\Animation.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
