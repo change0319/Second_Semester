@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Данил\Desktop\Matrix\Matrix\main.cpp(4,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Данил\Desktop\Matrix\Matrix\matrix.h(53,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Данил\Desktop\Matrix\Matrix\matrix.h(50): message : во время компиляции функции-члена класс шаблон "void My::Matrix<int>::generate(int,int)"
+C:\Users\Данил\Desktop\Matrix\Matrix\main.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void My::Matrix<int>::generate(int,int)"
+C:\Users\Данил\Desktop\Matrix\Matrix\main.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "My::Matrix<int>"
+  Matrix.vcxproj -> C:\Users\Данил\Desktop\Matrix\x64\Debug\Matrix.exe
